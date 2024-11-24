@@ -16,7 +16,7 @@ export const metadata = {
     title: "Consua - Consulting Business React-NextJS Template"
 }
 
-const Home2 = () => {
+export default function Home2() {
     return (
         <>
             <LayoutStyle2>
@@ -36,4 +36,3 @@ const Home2 = () => {
     );
 };
 
-export default Home2;

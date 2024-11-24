@@ -47,7 +47,7 @@ const EstimateForm = () => {
                     <div className="col-lg-6">
                         <div className="form-group">
                             <label htmlFor="email">Email Address</label>
-                            <input className="form-control" id="email" name="email" placeholder="support@consua.com" type="email" required autoComplete='off' />
+                            <input className="form-control" id="email" name="email" placeholder="support@fintechshieldsolutions.com" type="email" required autoComplete='off' />
                         </div>
                     </div>
                     <div className="col-lg-6">

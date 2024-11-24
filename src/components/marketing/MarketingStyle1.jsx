@@ -9,7 +9,7 @@ const MarketingStyle1 = () => {
                         <div className="col-lg-8 offset-lg-2">
                             <div className="marketing-types">
                                 <div className="content">
-                                    <h2><strong>Consua</strong> is providing all types of marketing services.</h2>
+                                    <h2><strong>Fintech Shield Solutions</strong> is providing all types of marketing services.</h2>
                                     <ul className="types-list">
                                         <li>Google Ads</li>
                                         <li>YouTube Marketing</li>

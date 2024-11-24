@@ -52,7 +52,7 @@ const SidebarInfo = ({ closeInfoBar, isInfoOpen, openInfoBar, searchOpen }) => {
                             <li>
                                 <div className="content">
                                     <p>Email</p>
-                                    <a href="mailto:support@validtheme.com"><strong>support@validtheme.com</strong></a>
+                                    <a href="mailto:support@fintechshieldsolutions.com"><strong>support@fintechshieldsolutions.com</strong></a>
                                 </div>
                             </li>
                             <li>

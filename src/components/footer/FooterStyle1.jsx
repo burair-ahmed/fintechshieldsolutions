@@ -25,7 +25,8 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                             <div className="col-lg-4 col-md-6 footer-item pr-50 pr-xs-15">
                                 <div className="f-item about">
                                     <Link href="/">
-                                        {logo ? <Image className="logo" src={logo} alt="Logo" /> : <Image className="logo" src={logoLight} alt="Logo" />}
+                                        {/* {logo ? <Image className="logo" src={logo} alt="Logo" /> : <Image className="logo" src={logoLight} alt="Logo" />} */}
+                                        <h2 className="title mb-20 mt-2">Fintech Shield</h2>{/**just to show client */}
                                     </Link>
                                     <p>
                                         Excellence decisively nay man twins impression maximum contrasted remarkably is perfect.
@@ -50,7 +51,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                             <div className="col-lg-2 col-md-6 footer-item">
                                 <div className="f-item link">
                                     <h4 className="widget-title">Our Company</h4>
-                                    <ul>
+                                    {/* <ul>
                                         <li>
                                             <Link href="/about-us">Compnay Profile</Link>
                                         </li>
@@ -66,13 +67,13 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                         <li>
                                             <Link href="/contact-us">Contact</Link>
                                         </li>
-                                    </ul>
+                                    </ul> */}
                                 </div>
                             </div>
                             <div className="col-lg-2 col-md-6 footer-item">
                                 <div className="f-item link">
                                     <h4 className="widget-title">Our Services</h4>
-                                    <ul>
+                                    {/* <ul>
                                         <li>
                                             <Link href="/services-details/1">Manage investment</Link>
                                         </li>
@@ -88,7 +89,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                         <li>
                                             <Link href="/services-details/1">Insurance strategy</Link>
                                         </li>
-                                    </ul>
+                                    </ul> */}
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 footer-item">
@@ -113,7 +114,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                 <p>&copy; Copyright {(new Date().getFullYear())}. All Rights Reserved by <a href="/" target='_blank'>Burair/Ali</a></p>
                             </div>
                             <div className="col-lg-6 text-end">
-                                <ul>
+                                {/* <ul>
                                     <li>
                                         <Link href="/faq">Terms</Link>
                                     </li>
@@ -123,7 +124,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                     <li>
                                         <Link href="/contact-us">Support</Link>
                                     </li>
-                                </ul>
+                                </ul> */}
                             </div>
                         </div>
                     </div>

@@ -14,7 +14,7 @@ const SingleBanner2 = ({ banner }) => {
                             <h2>{titleFirst} <br /> {titleLast}</h2>
                             <p>{text}</p>
                             <div className="button">
-                                <Link className="btn circle btn-theme btn-md radius animation" href="/contact-us">{btnText}</Link>
+                                <Link className="btn circle btn-theme btn-md radius animation" href="/">{btnText}</Link>{/* Just changed the link from contact us to home for client */}
                             </div>
                             <div className="shape-circle"></div>
                         </div>

@@ -20,7 +20,9 @@ const BlogStyle2 = () => {
                     </div>
                 </div>
                 <div className="container">
-                    <div className="row">
+
+                    <h1>Blogs Here</h1>
+                    {/* <div className="row">
                         <div className="col-lg-6">
                             {Blog2Data.slice(0, 1).map(blog =>
                                 <SingleBlog2 blog={blog} key={blog.id} />
@@ -31,7 +33,7 @@ const BlogStyle2 = () => {
                                 <SingleBlog2 blog={blog} key={blog.id} />
                             )}
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </>

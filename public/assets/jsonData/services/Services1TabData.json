@@ -7,31 +7,27 @@
         "tabData": [
             {
                 "id": 1,
-                "animationDelay": 0,
                 "icon": "flaticon-personal",
-                "title": "Investment Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Software Development & Integration",
+                "text": "We specialize in custom software solutions and integrations to optimize business workflows. Our team builds scalable, secure, and efficient systems tailored to your unique needs."
             },
             {
                 "id": 2,
-                "animationDelay": "",
                 "icon": "flaticon-career",
-                "title": "Markets Research",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Cybersecurity Services",
+                "text": "Our cybersecurity services protect your business from digital threats. We provide comprehensive risk assessments, vulnerability testing, and custom security solutions to keep your data safe."
             },
             {
                 "id": 3,
-                "animationDelay": "",
                 "icon": "flaticon-group",
-                "title": "Consultancy & Advice",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "IT Consulting",
+                "text": "Our IT consulting services help you make informed decisions about your infrastructure. We offer expert guidance on the best technology choices to achieve your business goals."
             },
             {
                 "id": 4,
-                "animationDelay": "",
                 "icon": "flaticon-solution-5",
-                "title": "Business Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Business IT Solutions",
+                "text": "We offer end-to-end business IT solutions, from cloud computing to custom software development. We help you streamline operations and increase productivity with smart technology."
             }
         ]
     },
@@ -43,31 +39,27 @@
         "tabData": [
             {
                 "id": 1,
-                "animationDelay": 0,
                 "icon": "flaticon-business-trip",
-                "title": "Strategy & Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Data Backup & Disaster Recovery",
+                "text": "Our data backup and disaster recovery services ensure that your business can continue to operate even after unexpected events. We offer reliable data protection and fast recovery solutions."
             },
             {
                 "id": 2,
-                "animationDelay": "",
                 "icon": "flaticon-online-store",
-                "title": "Online Business",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "E-commerce Solutions",
+                "text": "We provide comprehensive e-commerce solutions, helping you build, launch, and grow your online store with secure payment integrations and customized storefronts."
             },
             {
                 "id": 3,
-                "animationDelay": "",
                 "icon": "flaticon-funds",
-                "title": "Saving & Investments",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Cloud Solutions",
+                "text": "Leverage cloud technology to improve business agility and scalability. Our cloud solutions offer secure data storage, flexible access, and cost-effective infrastructure management."
             },
             {
                 "id": 4,
-                "animationDelay": "",
                 "icon": "flaticon-career",
-                "title": "Markets Research",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Network Services",
+                "text": "We provide comprehensive network services, ensuring secure, reliable, and efficient communication within your business. We also offer network setup, management, and troubleshooting services."
             }
         ]
     },
@@ -79,31 +71,27 @@
         "tabData": [
             {
                 "id": 1,
-                "animationDelay": 0,
                 "icon": "flaticon-budget",
-                "title": "Investment Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Bookkeeping & Accounting",
+                "text": "Our bookkeeping and accounting services provide businesses with accurate financial records, tax preparation, and compliance to ensure sound financial management and reporting."
             },
             {
                 "id": 2,
-                "animationDelay": "",
                 "icon": "flaticon-money-1",
-                "title": "Mutual Funds",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Tax Services",
+                "text": "We offer tax preparation, planning, and consulting services to help businesses minimize tax liabilities and ensure full compliance with ever-changing tax laws."
             },
             {
                 "id": 3,
-                "animationDelay": "",
                 "icon": "flaticon-funds",
-                "title": "Saving & Investments",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Financial Advisory",
+                "text": "Our financial advisory services provide businesses with guidance on investments, risk management, and capital allocation to achieve long-term financial success."
             },
             {
                 "id": 4,
-                "animationDelay": "",
                 "icon": "flaticon-world-globe",
-                "title": "Global Business",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
+                "title": "Anti-Money Laundering Services",
+                "text": "We help businesses navigate anti-money laundering regulations and compliance requirements, offering expert advisory on how to mitigate financial crime risks."
             }
         ]
     }

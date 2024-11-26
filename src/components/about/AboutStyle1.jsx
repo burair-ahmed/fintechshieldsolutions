@@ -13,16 +13,16 @@ const AboutStyle1 = () => {
         <>
             <div className="about-style-one-area default-padding">
                 <div className="shape-animated-left">
-                    <Image src={anim1Thumb} alt="Image Not Found" />
-                    <Image src={anim2Thumb} alt="Image Not Found" />
+                    <Image src={anim1Thumb} alt="Shape 1" />
+                    <Image src={anim2Thumb} alt="Shape 2" />
                 </div>
                 <div className="container">
                     <div className="row align-center">
                         <div className="about-style-one col-xl-6 col-lg-5">
-                            <div className="h4 sub-heading">Feel Valued & Rewarded</div>
-                            <h2 className="title mb-25">Finance Consulting for Challenging Times</h2>
+                            <div className="h4 sub-heading">Empowering Your Financial Future</div>
+                            <h2 className="title mb-25">Strategic Consulting for Today’s Business Challenges</h2>
                             <p>
-                                We work to understand your issues and are driven to ask better questions in the pursuit of making work. Me contained explained my education. Vulgar as hearts by garret. Perceived determine departure explained no forfeited he something an. Contrasted dissimilar get joy you instrument out reasonably. Again keep.
+                                At Fintech Shield Solutions, we aim to provide transformative financial and IT strategies. We understand your unique challenges and deliver tailored solutions to ensure business growth, security, and efficiency. Our consultative approach helps us address your needs with precision, ensuring long-term success.
                             </p>
                             <div className="owner-info">
                                 <div className="left-info">
@@ -30,17 +30,17 @@ const AboutStyle1 = () => {
                                     <span>CEO & Founder</span>
                                 </div>
                                 <div className="right-info">
-                                    <Image src={signatureThumb} alt="Image Not Found" />
+                                    <Image src={signatureThumb} alt="Signature" />
                                 </div>
                             </div>
                         </div>
                         <div className="about-style-one col-xl-5 offset-xl-1 col-lg-6 offset-lg-1">
                             <div className="about-thumb">
-                                <Image className="wow fadeInRight" src={aboutThumb} alt="Image Not Found" />
+                                <Image className="wow fadeInRight" src={aboutThumb} alt="About Image" />
                                 <About1Card />
                                 <div className="thumb-shape-bottom wow fadeInDown" data-wow-delay="300ms">
-                                    <Image src={anim3Thumb} alt="Image Not Found" />
-                                    <Image src={anim4Thumb} alt="Image Not Found" />
+                                    <Image src={anim3Thumb} alt="Shape 3" />
+                                    <Image src={anim4Thumb} alt="Shape 4" />
                                 </div>
                             </div>
                         </div>

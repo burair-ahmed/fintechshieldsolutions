@@ -59,7 +59,7 @@ const ServiceDetailsContent = ({ serviceInfo }) => {
                                     </div>
                                 </div>
 
-                                <div className="services-more mt-40">
+                                {/* <div className="services-more mt-40">
                                     <h2>Popular Services</h2>
                                     <div className="row">
                                         <div className="col-md-6">
@@ -81,7 +81,7 @@ const ServiceDetailsContent = ({ serviceInfo }) => {
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
 
                             <div className="col-xl-4 col-lg-5 mt-md-120 mt-xs-50 services-sidebar">

@@ -30,7 +30,7 @@ export default function Home2() {
                 <ProjectStyle2 projectTitle={true} />
                 <ContactStyle2 />
                 <FunFactStyle1 />
-                <BlogStyle2 />
+                {/* <BlogStyle2 /> */}
             </LayoutStyle2>
         </>
     );

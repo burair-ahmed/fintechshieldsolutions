@@ -5,9 +5,9 @@
         "btnClass": "",
         "collapseTarget": "collapseOne",
         "expanded": "true",
-        "title": "Where can I get analytics help?",
+        "title": "What IT services do you provide?",
         "textClass": "show",
-        "text": "Bennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now minute exact dear open to reaching out."
+        "text": "We offer a full range of IT services, including software development, cybersecurity, network solutions, disaster recovery, and IT consulting, tailored to meet the needs of businesses of all sizes."
     },
     {
         "id": 2,
@@ -15,9 +15,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseTwo",
         "expanded": "false",
-        "title": "How much does data analytics costs?",
+        "title": "How does cybersecurity protection work?",
         "textClass": "",
-        "text": "Cennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now minute exact dear open to reaching out."
+        "text": "Our cybersecurity services include risk assessments, threat monitoring, data encryption, and incident response strategies to ensure that your business is safeguarded against potential threats and data breaches."
     },
     {
         "id": 3,
@@ -25,9 +25,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseThree",
         "expanded": "false",
-        "title": "What kind of data is needed for analysis?",
+        "title": "What accounting services do you offer?",
         "textClass": "",
-        "text": "Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now minute exact dear open to reaching out."
+        "text": "We provide comprehensive accounting services, including bookkeeping, tax preparation, audits, financial consulting, and compliance services to ensure your business stays financially healthy and compliant with regulations."
     },
     {
         "id": 4,
@@ -35,8 +35,38 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseFour",
         "expanded": "false",
-        "title": "What kind of data is needed for analysis?",
+        "title": "How can your IT consulting services benefit my business?",
         "textClass": "",
-        "text": "Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now minute exact dear open to reaching out."
+        "text": "Our IT consulting services help businesses optimize their technology infrastructure, improve efficiency, and align IT strategies with business goals. We offer expert advice on system integrations, cloud solutions, and IT project management."
+    },
+    {
+        "id": 5,
+        "headingId": "headingFive",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseFive",
+        "expanded": "false",
+        "title": "How do you ensure data privacy and compliance?",
+        "textClass": "",
+        "text": "We adhere to strict data privacy and compliance standards, including GDPR, HIPAA, and other regulatory frameworks. Our solutions are designed to protect sensitive data while ensuring your business complies with industry regulations."
+    },
+    {
+        "id": 6,
+        "headingId": "headingSix",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseSix",
+        "expanded": "false",
+        "title": "What is your approach to disaster recovery?",
+        "textClass": "",
+        "text": "We implement robust disaster recovery plans that ensure minimal downtime in case of a system failure or disaster. Our services include regular backups, data restoration plans, and continuous monitoring to ensure your business can quickly recover from unexpected events."
+    },
+    {
+        "id": 7,
+        "headingId": "headingSeven",
+        "btnClass": "collapsed",
+        "collapseTarget": "collapseSeven",
+        "expanded": "false",
+        "title": "Do you provide custom software development?",
+        "textClass": "",
+        "text": "Yes, we specialize in custom software development to address your specific business needs. Our development services include web and mobile applications, system integrations, and tailored enterprise solutions designed to enhance your operational efficiency."
     }
 ]

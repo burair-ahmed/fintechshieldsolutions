@@ -1,20 +1,29 @@
 [
     {
         "id": 1,
-        "titleFirst": "Financial Analysis",
-        "titleLast": "Developing Meeting.",
-        "text": "Values-driven company that provides affordable, marketing tools for ambitious people and teams.",
-        "btnText": "Get Consultant",
+        "titleFirst": "IT Solutions",
+        "titleLast": "Simplified.",
+        "text": "Secure, scalable IT services for seamless business operations.",
+        "btnText": "Get Started Today",
         "thumb": "1.png",
-        "shape": "3.png"
+        "shape": "it_shape.png"
     },
     {
         "id": 2,
-        "titleFirst": "Financial Analysis",
-        "titleLast": "Developing Meeting.",
-        "text": "Values-driven company that provides affordable, marketing tools for ambitious people and teams.",
-        "btnText": "Get Consultant",
-        "thumb": "2.png",
-        "shape": "3.png"
+        "titleFirst": "Accounting",
+        "titleLast": "Made Easy.",
+        "text": "Smart financial solutions to streamline your business.",
+        "btnText": "Get Started Today",
+        "thumb": "4.png",
+        "shape": "accounting_shape.png"
+    },
+    {
+        "id": 3,
+        "titleFirst": "Secure.",
+        "titleLast": "Transform.",
+        "text": "Innovative solutions for IT and accounting success.",
+        "btnText": "Get Started Today",
+        "thumb": "3.png",
+        "shape": "transform_shape.png"
     }
 ]

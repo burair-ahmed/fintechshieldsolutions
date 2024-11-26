@@ -69,7 +69,7 @@ const SingleFeatureProgress = ({ progress }) => {
                             </linearGradient>
                         </defs>
                     </svg>
-                    <CircularProgressbar strokeWidth={8} stroke="#ff0000" value={progressValue} text={`${progressValue}%`} styles={gradientStyles} />
+                    <CircularProgressbar strokeWidth={8} stroke="#ff0000" value={progressValue} text={`${progressValue}+`} styles={gradientStyles} />
                     <h4>{title}</h4>
                 </div>
             </li>

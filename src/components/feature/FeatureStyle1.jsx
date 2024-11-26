@@ -1,7 +1,7 @@
 import React from 'react';
-import shape21 from '@/assets/img/shape/21.png'
+import shape21 from '@/assets/img/shape/21.png';
 import Image from 'next/image';
-import FeatureProgress1Data from '@/assets/jsonData/feature/FeatureProgress1Data.json'
+import FeatureProgress1Data from '@/assets/jsonData/feature/FeatureProgress1Data.json';
 import SingleFeatureProgress from './SingleFeatureProgress';
 
 const FeatureStyle1 = () => {
@@ -15,11 +15,10 @@ const FeatureStyle1 = () => {
                                 <div className="arrow-shape">
                                     <Image src={shape21} alt="Image not found" />
                                 </div>
-                                <h2 className="title mb-25">Flexibility & Features to Fit Any Team’s Style.</h2>
+                                <h2 className="title mb-25">Empowering Businesses with IT and Accounting Excellence</h2>
                                 <p>
-                                    Our agency’s aim is always to take the product to market as quickly as possible and use
-                                    iterative software development approach until we achieve all business goals and fulfil
-                                    market & user needs
+                                    At Fintech Shield Solutions, we deliver tailored IT and accounting services designed 
+                                    to enhance operational efficiency, ensure compliance, and drive growth.
                                 </p>
                                 <div className="circle-progress">
                                     {FeatureProgress1Data.map(progress =>
@@ -32,26 +31,26 @@ const FeatureStyle1 = () => {
                         <div className="col-lg-6 offset-lg-1 pl-60 pl-md-15 pl-xs-10 mt-md-50 mt-xs-50">
                             <div className="feature-style-one wow fadeInUp">
                                 <div className="icon">
-                                    <i className="flaticon-handshake"></i>
+                                    <i className="flaticon-social-engagement"></i>
                                 </div>
                                 <div className="info">
-                                    <h4>It control solutions</h4>
+                                    <h4>Cybersecurity Solutions</h4>
                                     <p>
-                                        Excellence projecting devonshire dispatched remarkably process. Surrounded sir
-                                        motionless she end literature. Gay direction neglected but supported yet her.
+                                        Protect your business with advanced cybersecurity measures, ensuring data integrity 
+                                        and operational resilience.
                                     </p>
                                 </div>
                             </div>
 
                             <div className="feature-style-one wow fadeInUp" data-wow-delay="300ms">
                                 <div className="icon">
-                                    <i className="flaticon-social-engagement"></i>
+                                    <i className="flaticon-handshake"></i>
                                 </div>
                                 <div className="info">
-                                    <h4>Teamwork Advanced</h4>
+                                    <h4>Comprehensive Accounting</h4>
                                     <p>
-                                        Anotoinng projecting devonshire dispatched remarkably process. Surrounded sir motionless
-                                        she end literature. Gay direction neglected but supported yet her.
+                                        Streamline your financial processes with expert accounting services tailored 
+                                        to meet your business needs.
                                     </p>
                                 </div>
                             </div>

@@ -22,8 +22,8 @@ const ServicesStyle2 = () => {
                     <div className="row">
                         {Services2Data.slice(0, 3).map(service =>
                             <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
-                                {/* <SingleServices2 service={service} /> */}
-                                <h1>Services Here</h1>
+                                <SingleServices2 service={service} />
+                                {/* <h1>Services Here</h1> */}
                             </div>
                         )}
                     </div>

@@ -17,7 +17,7 @@ const ProjectStyle2 = ({ projectTitle }) => {
                         <div className="row">
                             <div className="col-md-12 gallery-content">
                                 <div className="magnific-mix-gallery gallery-masonary">
-                                    {/* <IsotopeGallery /> */}
+                                    <IsotopeGallery />
                                     <h1>Portfolio Here</h1>
                                 </div>
                                 <div className="row">

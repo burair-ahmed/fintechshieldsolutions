@@ -21,7 +21,7 @@ const SingleBanner2 = ({ banner }) => {
                     </div>
                 </div>
                 <div className="banner-thumb">
-                    <Image src={`/assets/img/illustration/${thumb}`} alt="illustration" width={805} height={970} />
+                    <Image src={`/assets/img/illustration/${thumb}`} alt="illustration" width={600} height={700} />
                 </div>
             </div>
             <div className="banner-shape-right" style={{ background: `url(/assets/img/shape/${shape})` }}></div>

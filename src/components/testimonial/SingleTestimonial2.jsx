@@ -25,7 +25,7 @@ const SingleTestimonial2 = ({ testimonial }) => {
                             <span>{location}</span>
                         </div>
                         <div className="thumb">
-                            <Image src={`/assets/img/logo/${logo}`} width={129} height={37} alt="Logo" />
+                            {/* <Image src={`/assets/img/logo/${logo}`} width={129} height={37} alt="Logo" /> */}
                         </div>
                     </div>
                 </div>

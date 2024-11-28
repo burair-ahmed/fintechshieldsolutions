@@ -14,7 +14,7 @@ const HeaderTopStyle2 = () => {
                                     </div>
                                     <div className="info">
                                         <strong>Address</strong>
-                                        70240 Avenue of the Moon, California
+                                        Frisco, Texas
                                     </div>
                                 </li>
                                 <li>

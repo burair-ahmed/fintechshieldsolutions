@@ -7,7 +7,7 @@
         "text": "Fintech Shield Solutions has been a game-changer for our business. Their IT consulting services provided us with a clear strategy and robust solutions, which streamlined our operations and increased efficiency across the board.",
         "name": "Aleesha Brown",
         "location": "United States",
-        "logo": "01.png"
+        "logo": ""
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "text": "The team at Fintech Shield Solutions helped us implement a seamless disaster recovery plan and improve our network security. We now feel more confident in our systems, knowing that our data is safe and protected.",
         "name": "Kevin Martin",
         "location": "Australia",
-        "logo": "04.png"
+        "logo": ""
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "text": "I highly recommend Fintech Shield Solutions for businesses looking for top-tier IT services. Their cybersecurity expertise has ensured that we are fully protected against any potential threats, and their customer support is always outstanding.",
         "name": "Sarah Albert",
         "location": "Germany",
-        "logo": "05.png"
+        "logo": ""
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "text": "The IT services provided by Fintech Shield Solutions have transformed our company’s infrastructure. Their team was responsive, professional, and knowledgeable in implementing systems that enhanced both our internal operations and client experience.",
         "name": "John Williams",
         "location": "Canada",
-        "logo": "06.png"
+        "logo": ""
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "text": "Thanks to Fintech Shield Solutions, we now have a comprehensive cybersecurity strategy in place. Their team was thorough and professional in addressing our vulnerabilities, and their proactive approach gives us peace of mind.",
         "name": "Emma Rogers",
         "location": "United Kingdom",
-        "logo": "07.png"
+        "logo": ""
     },
     {
         "id": 6,
@@ -57,6 +57,6 @@
         "text": "We engaged Fintech Shield Solutions for our accounting needs, and they exceeded our expectations. Their expertise in bookkeeping, tax preparation, and financial consulting has helped us improve our financial operations and compliance.",
         "name": "David Green",
         "location": "South Africa",
-        "logo": "08.png"
+        "logo": ""
     }
 ]

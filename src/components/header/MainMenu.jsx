@@ -6,7 +6,7 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
         <>
             <ul className={`nav navbar-nav ${navbarPlacement}`} data-in="fadeInDown" data-out="fadeOutUp">
                 <li className="dropdown">
-                    <Link href="/" className="active" onClick={toggleSubMenu}>Home</Link>
+                    <Link href="/" className="active" >Home</Link>
                     {/* <ul className="dropdown-menu">
                         <li><Link href="/">Consulting Business</Link></li>
                         <li><Link href="/home2">Corporate Business</Link></li>

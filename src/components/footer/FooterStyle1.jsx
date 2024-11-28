@@ -111,7 +111,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-6">
-                                <p>&copy; Copyright {(new Date().getFullYear())}. All Rights Reserved by <a href="/" target='_blank'>Burair/Ali</a></p>
+                                <p>&copy; Copyright {(new Date().getFullYear())}. All Rights Reserved by <a href="/" target='_blank'>AB Developers</a></p>
                             </div>
                             <div className="col-lg-6 text-end">
                                 {/* <ul>

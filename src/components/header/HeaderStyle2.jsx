@@ -19,8 +19,8 @@ const HeaderStyle2 = () => {
             <header>
                 <nav className={`navbar mobile-sidenav navbar-sticky navbar-default validnavs navbar-fixed dark on menu-center no-full ${isMenuSticky ? 'sticked' : 'no-background'} ${isOpen ? "navbar-responsive" : ""}`}>
                     <div className="container d-flex justify-content-between align-items-center">
-                        {/* <HeaderLogo openMenu={openMenu} /> */}
-                        <h2 className="title mb-20 mt-2">Fintech</h2>{/**just to show client */}
+                        <HeaderLogo openMenu={openMenu} />
+                        {/* <h2 className="title mb-20 mt-2">Fintech</h2> */}
                         <div className={`collapse navbar-collapse collapse-mobile ${isOpen ? "show" : ""}`} id="navbar-menu">
                             <div className="collapse-header">
                                 <Image src={logo} alt="Logo" />
@@ -28,7 +28,7 @@ const HeaderStyle2 = () => {
                                     <i className="fa fa-times"></i>
                                 </button>
                             </div>
-                            {/* <MainMenu navbarPlacement="navbar-center" isOpen={isOpen} closeMenu={closeMenu} toggleSubMenu={toggleSubMenu} /> */}
+                            <MainMenu navbarPlacement="navbar-center" isOpen={isOpen} closeMenu={closeMenu} toggleSubMenu={toggleSubMenu} />
                         </div>
                         <div className="attr-right">
                             <div className="attr-nav">

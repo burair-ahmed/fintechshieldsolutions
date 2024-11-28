@@ -13,7 +13,7 @@ const HeaderTopStyle1 = () => {
                                     <i className="fas fa-map-marker-alt"></i> 70240 Avenue of the Moon, California
                                 </li>
                                 <li>
-                                    <a href="tel:+4733378901"><i className="fas fa-phone-alt"></i> +4733378901</a>
+                                    <a href="tel:+19452672021"><i className="fas fa-phone-alt"></i> +19452672021</a>
                                 </li>
                             </ul>
                         </div>

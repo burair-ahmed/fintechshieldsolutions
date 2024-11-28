@@ -23,7 +23,7 @@ const HeaderTopStyle2 = () => {
                                     </div>
                                     <div className="info">
                                         <strong>Phone</strong>
-                                        <a href="tel:+4733378901">+4733378901</a>
+                                        <a href="tel:+19452672021">+19452672021</a>
                                     </div>
                                 </li>
                             </ul>

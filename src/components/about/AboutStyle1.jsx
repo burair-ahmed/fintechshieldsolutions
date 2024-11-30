@@ -1,11 +1,9 @@
 import Image from 'next/image';
 import React from 'react';
-import anim1Thumb from '@/assets/img/shape/anim-1.png'
-import anim2Thumb from '@/assets/img/shape/anim-2.png'
-import anim3Thumb from '@/assets/img/shape/anim-3.png'
-import anim4Thumb from '@/assets/img/shape/anim-4.png'
-import aboutThumb from "@/assets/img/about/1.jpg"
-import signatureThumb from "@/assets/img/signature.png"
+import anim1Thumb from '@/assets/img/shape/anim-1.png';
+import anim2Thumb from '@/assets/img/shape/anim-2.png';
+import aboutThumb from "@/assets/img/about/1.jpg";
+import signatureThumb from "@/assets/img/signature.png";
 import About1Card from './About1Card';
 
 const AboutStyle1 = () => {
@@ -22,7 +20,10 @@ const AboutStyle1 = () => {
                             <div className="h4 sub-heading">Empowering Your Financial Future</div>
                             <h2 className="title mb-25">Strategic Consulting for Today’s Business Challenges</h2>
                             <p>
-                                At Fintech Shield Solutions, we aim to provide transformative financial and IT strategies. We understand your unique challenges and deliver tailored solutions to ensure business growth, security, and efficiency. Our consultative approach helps us address your needs with precision, ensuring long-term success.
+                                At Fintech Shield Solutions, we aim to provide transformative financial and IT strategies. We understand your unique challenges and deliver tailored solutions to ensure business growth, security, and efficiency.
+                            </p>
+                            <p>
+                                Fintech Shield Solution LLC is poised to become a premier provider of anti-money laundering (AML), financial risk management, and compliance advisory services in the United States. Focused on supporting businesses across various sectors, Fintech Shield Solution LLC offers specialized expertise in combating financial crimes, enhancing regulatory compliance, and providing tailored financial advisory services.
                             </p>
                             <div className="owner-info">
                                 <div className="left-info">
@@ -38,10 +39,6 @@ const AboutStyle1 = () => {
                             <div className="about-thumb">
                                 <Image className="wow fadeInRight" src={aboutThumb} alt="About Image" />
                                 <About1Card />
-                                <div className="thumb-shape-bottom wow fadeInDown" data-wow-delay="300ms">
-                                    <Image src={anim3Thumb} alt="Shape 3" />
-                                    <Image src={anim4Thumb} alt="Shape 4" />
-                                </div>
                             </div>
                         </div>
                     </div>

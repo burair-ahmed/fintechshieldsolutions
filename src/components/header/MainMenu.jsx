@@ -23,7 +23,7 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                         <li><Link href="/team-details/1">Team Details</Link></li> */}
                         {/* <li><Link href="/pricing">Pricing</Link></li> */}
                         <li><Link href="/faq">FAQ</Link></li>
-                        <li><Link href="/contact-us">Contact Us</Link></li>
+                        {/* <li><Link href="/contact-us">Contact Us</Link></li> */}
                         {/* <li><Link href="/not-found">Error Page</Link></li> */}
                     </ul>
                 </li>

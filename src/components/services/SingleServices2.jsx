@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React from 'react';
 
 const SingleServices2 = ({ service }) => {
-    const { id, thumb, title, icon, text, btnText } = service
+    const { id, thumb, title, icon, text, btnText } = service;
 
     return (
         <>

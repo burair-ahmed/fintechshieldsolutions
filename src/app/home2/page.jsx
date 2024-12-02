@@ -11,6 +11,7 @@ import React from 'react';
 import ContactStyle2 from '@/components/contact/ContactStyle2';
 import FunFactStyle1 from '@/components/fun/FunFactStyle1';
 import BlogStyle2 from '@/components/blog/BlogStyle2';
+import Link from 'next/link';
 
 export const metadata = {
     title: "Fintech Shield Solutions"
@@ -23,6 +24,13 @@ export default function Home2() {
                 <BannerStyle2 />
                 <FeatureStyle1 />
                 <ServicesStyle2 />
+                
+                {/* View More Button */}
+                {/* <div className="button">
+                    <Link href={`/services-2`}>View More</Link>
+                    <div className="devider"></div>
+                </div>
+                 */}
                 <PartnerStyle1 sectionClass="default-padding" />
                 <AboutStyle2 sectionClass="bg-gray" />
                 <FaqStyle1 />
@@ -35,4 +43,3 @@ export default function Home2() {
         </>
     );
 };
-

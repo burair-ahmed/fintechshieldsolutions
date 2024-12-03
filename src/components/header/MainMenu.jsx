@@ -17,15 +17,10 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                     </ul> */}
                 </li>
                 <li className="dropdown">
-                    <Link href="/about-us" className="dropdown-toggle" data-toggle="dropdown" >About Us</Link>
-                    <ul className="dropdown-menu">
-                        {/* <li><Link href="/team">Team</Link></li>
-                        <li><Link href="/team-details/1">Team Details</Link></li> */}
-                        {/* <li><Link href="/pricing">Pricing</Link></li> */}
+                    <Link href="/about-us" className="" data-toggle="dropdown" >About Us</Link>
+                    {/* <ul className="dropdown-menu">
                         <li><Link href="/faq">FAQ</Link></li>
-                        {/* <li><Link href="/contact-us">Contact Us</Link></li> */}
-                        {/* <li><Link href="/not-found">Error Page</Link></li> */}
-                    </ul>
+                    </ul> */}
                 </li>
                 {/* <li className="dropdown">
                     <Link href="project" className="dropdown-toggle" data-toggle="dropdown" onClick={toggleSubMenu}>Projects</Link>
@@ -35,12 +30,19 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                     </ul>
                 </li> */}
                 <li className="dropdown">
-                    <Link href="/services-2" className="" data-toggle="dropdown" >Services</Link>
-                    {/* <ul className="dropdown-menu">
-                        <li><Link href="/services">Services Version One</Link></li>
-                        <li><Link href="/services-2">Services Version Two</Link></li>
-                        <li><Link href="/services-details/1">Services Details</Link></li>
-                    </ul> */}
+                    <Link href="/services-2" className="dropdown-toggle" data-toggle="dropdown" >Services</Link>
+                    <ul className='dropdown-menu'>
+                <li><Link href="/services-details/software-development-integration">Software Development and Integration</Link></li>
+                <li><Link href="/services-details/cybersecurity-services">Cybersecurity Services</Link></li>
+                <li><Link href="/services-details/it-training-support">IT Training and Support</Link></li>
+                <li><Link href="/services-details/network-services">Network Services</Link></li>
+                <li><Link href="/services-details/data-backup-recovery">Data Backup and Disaster Recovery</Link></li>
+                <li><Link href="/services-details/bookkeeping">Bookkeeping</Link></li>
+                <li><Link href="/services-details/audit">Audit</Link></li>
+                <li><Link href="/services-details/tax">Tax</Link></li>
+                <li><Link href="/services-details/special-assignments">Special Assignments</Link></li>
+                <li><Link href="/services-details/anti-money-laundry">Anti-Money Laundering</Link></li>
+            </ul>
                 </li>
                 {/* <li className="dropdown">
                     <Link href="#" className="dropdown-toggle" data-toggle="dropdown" onClick={toggleSubMenu}>Blog</Link>

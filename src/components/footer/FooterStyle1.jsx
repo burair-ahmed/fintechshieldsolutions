@@ -51,45 +51,40 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                             <div className="col-lg-2 col-md-6 footer-item">
                                 <div className="f-item link">
                                     <h4 className="widget-title">Our Company</h4>
-                                    {/* <ul>
+                                    <ul>
                                         <li>
-                                            <Link href="/about-us">Compnay Profile</Link>
+                                            <Link href="/">Home</Link>
                                         </li>
                                         <li>
-                                            <Link href="/contact-us">Help Center</Link>
+                                            <Link href="/about-us">About us</Link>
                                         </li>
                                         <li>
-                                            <Link href="/about-us">Career</Link>
+                                            <Link href="/services-2">Services</Link>
                                         </li>
                                         <li>
-                                            <Link href="/pricing">Plans & Pricing</Link>
+                                            <Link href="/faqs">FAQs</Link>
                                         </li>
                                         <li>
                                             <Link href="/contact-us">Contact</Link>
                                         </li>
-                                    </ul> */}
+                                    </ul>
                                 </div>
                             </div>
                             <div className="col-lg-2 col-md-6 footer-item">
                                 <div className="f-item link">
                                     <h4 className="widget-title">Our Services</h4>
-                                    {/* <ul>
-                                        <li>
-                                            <Link href="/services-details/1">Manage investment</Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/services-details/1">Business planning</Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/services-details/1">Financial advices</Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/services-details/1">Tax strategy</Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/services-details/1">Insurance strategy</Link>
-                                        </li>
-                                    </ul> */}
+                                    <ul>
+                <li><Link href="/services-details/software-development-integration">Software Development and Integration</Link></li>
+                <li><Link href="/services-details/cybersecurity-services">Cybersecurity Services</Link></li>
+                <li><Link href="/services-details/it-training-support">IT Training and Support</Link></li>
+                <li><Link href="/services-details/network-services">Network Services</Link></li>
+                {/* <li><Link href="/services-details/data-backup-recovery">Data Backup and Disaster Recovery</Link></li> */}
+                {/* <li><Link href="/services-details/bookkeeping">Bookkeeping</Link></li> */}
+                {/* <li><Link href="/services-details/audit">Audit</Link></li> */}
+                {/* <li><Link href="/services-details/tax">Tax</Link></li> */}
+                <li><Link href="/services-details/special-assignments">Special Assignments</Link></li>
+                <li><Link href="/services-details/anti-money-laundry">Anti-Money Laundering</Link></li>
+            </ul>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 footer-item">

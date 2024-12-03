@@ -14,11 +14,11 @@ const SocialShare = () => {
                     <i className="fab fa-twitter"></i>
                 </Link>
             </li>
-            <li>
+            {/* <li>
                 <Link className="https://pinterest.com/" href="https://www.pinterest.com/" target="_blank">
                     <i className="fab fa-pinterest-p"></i>
                 </Link>
-            </li>
+            </li> */}
             <li>
                 <Link className="linkedin" href="https://www.linkedin.com/" target="_blank">
                     <i className="fab fa-linkedin-in"></i>

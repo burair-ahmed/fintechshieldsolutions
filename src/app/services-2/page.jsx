@@ -133,10 +133,10 @@ const Service2Page = () => {
                     </div>
                 </div>
                 <ProcessStyle1 />
-                <PartnerStyle1 sectionClass="default-padding bg-gray" />
-                <TeamStyle1 teamTitle={true} />
+                {/* <PartnerStyle1 sectionClass="default-padding bg-gray" />
+                <TeamStyle1 teamTitle={true} /> */}
                 <RequestCallStyle1 />
-                <TestimonialStyle1 />
+                {/* <TestimonialStyle1 /> */}
             </LayoutStyle7>
         </>
     );

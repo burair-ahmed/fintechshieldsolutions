@@ -8,7 +8,7 @@ import ContactForm from './ContactForm';
 const ContactStyle2 = () => {
     return (
         <>
-            <div className="contact-style-one-area overflow-hidden half-shape-top default-padding-bottom">
+            <div className="contact-style-one-area overflow-hidden half-shape-top pt-4 default-padding-bottom">
                 <div className="contact-shape">
                     <Image src={shape37} alt="Image Not Found" />
                 </div>

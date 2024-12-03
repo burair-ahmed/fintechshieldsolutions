@@ -12,8 +12,8 @@ const FaqStyle1 = ({ fullFaq }) => {
                     <div className="row align-center">
                         <div className="col-lg-6">
                             <div className="faq-style-one default-padding">
-                                <h4 className="sub-heading">Basic faq</h4>
-                                <h2 className="title mb-30">Common Question <br /> for this project</h2>
+                                {/* <h4 className="sub-heading">Basic faq</h4> */}
+                                <h2 className="title mb-30">Frequently Asked <br/> Questions</h2>
                                 <div className="accordion" id="faqAccordion">
                                     {fullFaq ?
                                         <>

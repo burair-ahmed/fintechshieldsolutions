@@ -31,13 +31,13 @@ export default function Home2() {
                     <div className="devider"></div>
                 </div>
                  */}
-                <PartnerStyle1 sectionClass="default-padding" />
+                {/* <PartnerStyle1 sectionClass="default-padding" /> */}
                 <AboutStyle2 sectionClass="bg-gray" />
                 <FaqStyle1 />
                 <TestimonialStyle2 />
-                <ProjectStyle2 projectTitle={true} />
+                {/* <ProjectStyle2 projectTitle={true} /> */}
                 <ContactStyle2 />
-                <FunFactStyle1 />
+                {/* <FunFactStyle1 /> */}
                 {/* <BlogStyle2 /> */}
             </LayoutStyle2>
         </>

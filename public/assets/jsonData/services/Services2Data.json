@@ -78,7 +78,7 @@
         "title": "Tax Services",
         "icon": "flaticon-tax",
         "text": "Expert tax planning and preparation to minimize liabilities and ensure compliance with tax laws.",
-        "btnText": "Explore Services"
+        "btnText": "Learn More"
     },
     {
         "id": "special-assignments",
@@ -96,6 +96,6 @@
         "title": "Consulting & Advisory",
         "icon": "flaticon-bar-chart",
         "text": "Expert consulting to guide your IT and financial strategy, helping you make informed decisions and drive growth.",
-        "btnText": "Get Advice"
+        "btnText": "Learn More"
     }
 ]

@@ -25,8 +25,8 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                             <div className="col-lg-4 col-md-6 footer-item pr-50 pr-xs-15">
                                 <div className="f-item about">
                                     <Link href="/">
-                                        {/* {logo ? <Image className="logo" src={logo} alt="Logo" /> : <Image className="logo" src={logoLight} alt="Logo" />} */}
-                                        <h2 className="title mb-20 mt-2">Fintech Shield</h2>{/**just to show client */}
+                                        {logo ? <Image className="logo" src={logo} alt="Logo" /> : <Image className="logo" src={logoLight} alt="Logo" />}
+                                        {/* <h2 className="title mb-20 mt-2">Fintech Shield</h2>*just to show client */}
                                     </Link>
                                     <p>
                                         Excellence decisively nay man twins impression maximum contrasted remarkably is perfect.
@@ -59,7 +59,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                             <Link href="/about-us">About us</Link>
                                         </li>
                                         <li>
-                                            <Link href="/services-2">Services</Link>
+                                            <Link href="/services">Services</Link>
                                         </li>
                                         <li>
                                             <Link href="/faqs">FAQs</Link>

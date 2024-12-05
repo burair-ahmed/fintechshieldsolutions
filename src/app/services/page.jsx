@@ -16,99 +16,99 @@ const servicesData = [
         "thumb": "service-1.jpg",
         "thumbFull": "2-full.jpg",
         "title": "Software Development & Integration",
-        "icon": "flaticon-budget",
+        "icon": "",
         "text": "Tailored software solutions and seamless integrations to optimize workflows and enhance your operations.",
         "btnText": "Learn More"
     },
     {
         "id": "cybersecurity-services",
-        "thumb": "3.jpg",
+        "thumb": "service-2.jpg",
         "thumbFull": "3-full.jpg",
         "title": "Cybersecurity Services",
-        "icon": "flaticon-bar-chart",
+        "icon": "",
         "text": "Comprehensive protection for your systems and data against evolving cyber threats.",
         "btnText": "Learn More"
     },
     {
         "id": "it-training-support",
-        "thumb": "4.jpg",
+        "thumb": "service-3.jpg",
         "thumbFull": "4-full.jpg",
         "title": "IT Training & Support",
-        "icon": "flaticon-laptop",
+        "icon": "",
         "text": "Expert IT training and ongoing support to empower your team with essential skills and knowledge.",
-        "btnText": "Explore Services"
+        "btnText": "Learn More"
     },
     {
         "id": "network-services",
-        "thumb": "3.jpg",
+        "thumb": "service-4.jpg",
         "thumbFull": "3-full.jpg",
         "title": "Network Services",
-        "icon": "flaticon-server",
+        "icon": "",
         "text": "Reliable network setup and management for seamless connectivity and optimal performance.",
         "btnText": "Learn More"
     },
     {
         "id": "data-backup-recovery",
-        "thumb": "4.jpg",
+        "thumb": "service-5.jpg",
         "thumbFull": "4-full.jpg",
         "title": "Data Backup & Disaster Recovery",
-        "icon": "flaticon-cloud-storage",
+        "icon": "",
         "text": "Secure data backup solutions and fast recovery to protect your business from data loss and downtime.",
         "btnText": "Learn More"
     },
     {
         "id": "bookkeeping",
-        "thumb": "4.jpg",
+        "thumb": "service-6.jpg",
         "thumbFull": "4-full.jpg",
         "title": "Bookkeeping & Accounting",
-        "icon": "flaticon-credit-cards",
+        "icon": "",
         "text": "Reliable bookkeeping and accounting services to keep your finances organized and compliant.",
-        "btnText": "Explore Services"
+        "btnText": "Learn More"
     },
     {
         "id": "audit",
-        "thumb": "2.jpg",
+        "thumb": "service-7.jpg",
         "thumbFull": "2-full.jpg",
         "title": "Audit Services",
-        "icon": "flaticon-calculator",
+        "icon": "",
         "text": "Thorough audits to ensure compliance, assess financial health, and uncover growth opportunities.",
         "btnText": "Learn More"
     },
     {
         "id": "anti-money-laundering",
-        "thumb": "3.jpg",
+        "thumb": "service-8.jpg",
         "thumbFull": "3-full.jpg",
         "title": "Anti-Money Laundering (AML)",
-        "icon": "flaticon-shield",
+        "icon": "",
         "text": "Comprehensive anti-money laundering solutions to safeguard your business and meet regulatory requirements.",
         "btnText": "Learn More"
     },
     {
         "id": "tax",
-        "thumb": "4.jpg",
+        "thumb": "service-9.jpg",
         "thumbFull": "4-full.jpg",
         "title": "Tax Services",
-        "icon": "flaticon-tax",
+        "icon": "",
         "text": "Expert tax planning and preparation to minimize liabilities and ensure compliance with tax laws.",
-        "btnText": "Explore Services"
+        "btnText": "Learn More"
     },
     {
         "id": "special-assignments",
-        "thumb": "2.jpg",
+        "thumb": "service-10.jpg",
         "thumbFull": "2-full.jpg",
         "title": "Special Assignments",
-        "icon": "flaticon-special-assignment",
+        "icon": "",
         "text": "Tailored solutions for unique business needs, including project management and consultancy for special assignments.",
         "btnText": "Learn More"
     },
     {
         "id": "consulting-advisory",
-        "thumb": "3.jpg",
+        "thumb": "service-11.jpg",
         "thumbFull": "3-full.jpg",
         "title": "Consulting & Advisory",
-        "icon": "flaticon-bar-chart",
+        "icon": "",
         "text": "Expert consulting to guide your IT and financial strategy, helping you make informed decisions and drive growth.",
-        "btnText": "Get Advice"
+        "btnText": "Learn More"
     }
 ];
 

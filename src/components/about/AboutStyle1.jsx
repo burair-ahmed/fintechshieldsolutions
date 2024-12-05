@@ -1,9 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import anim1Thumb from '@/assets/img/shape/anim-1.png';
-import anim2Thumb from '@/assets/img/shape/anim-2.png';
 import aboutThumb from "@/assets/img/about/1.jpg";
-import signatureThumb from "@/assets/img/signature.png";
 import About1Card from './About1Card';
 
 const AboutStyle1 = () => {
@@ -11,8 +8,7 @@ const AboutStyle1 = () => {
         <>
             <div className="about-style-one-area default-padding">
                 <div className="shape-animated-left">
-                    <Image src={anim1Thumb} alt="Shape 1" />
-                    <Image src={anim2Thumb} alt="Shape 2" />
+                   
                 </div>
                 <div className="container">
                     <div className="row align-center">
@@ -25,7 +21,7 @@ const AboutStyle1 = () => {
                             <p>
                                 Fintech Shield Solution LLC is poised to become a premier provider of anti-money laundering (AML), financial risk management, and compliance advisory services in the United States. Focused on supporting businesses across various sectors, Fintech Shield Solution LLC offers specialized expertise in combating financial crimes, enhancing regulatory compliance, and providing tailored financial advisory services.
                             </p>
-                            <div className="owner-info">
+                            {/* <div className="owner-info">
                                 <div className="left-info">
                                     <h4>Richard Garrett</h4>
                                     <span>CEO & Founder</span>
@@ -33,7 +29,7 @@ const AboutStyle1 = () => {
                                 <div className="right-info">
                                     <Image src={signatureThumb} alt="Signature" />
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                         <div className="about-style-one col-xl-5 offset-xl-1 col-lg-6 offset-lg-1">
                             <div className="about-thumb">

@@ -17,9 +17,9 @@ const AboutUsPage = () => {
                 <AboutStyle1 />
                 <FounderSection />
                 <ProcessStyle1 sectionClass="bg-gray" />
-                <PartnerStyle1 sectionClass="default-padding" />
+                {/* <PartnerStyle1 sectionClass="default-padding" /> */}
                 {/* <TeamStyle1 sectionClass="bg-gray" teamTitle={true} /> */}
-                <TestimonialStyle1 />
+                {/* <TestimonialStyle1 /> */}
             </LayoutStyle7>
         </>
     );

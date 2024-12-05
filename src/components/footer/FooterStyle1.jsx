@@ -77,12 +77,12 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                 <li><Link href="/services-details/software-development-integration">Software Development and Integration</Link></li>
                 <li><Link href="/services-details/cybersecurity-services">Cybersecurity Services</Link></li>
                 <li><Link href="/services-details/it-training-support">IT Training and Support</Link></li>
-                <li><Link href="/services-details/network-services">Network Services</Link></li>
+                {/* <li><Link href="/services-details/network-services">Network Services</Link></li> */}
                 {/* <li><Link href="/services-details/data-backup-recovery">Data Backup and Disaster Recovery</Link></li> */}
                 {/* <li><Link href="/services-details/bookkeeping">Bookkeeping</Link></li> */}
                 {/* <li><Link href="/services-details/audit">Audit</Link></li> */}
                 {/* <li><Link href="/services-details/tax">Tax</Link></li> */}
-                <li><Link href="/services-details/special-assignments">Special Assignments</Link></li>
+                {/* <li><Link href="/services-details/special-assignments">Special Assignments</Link></li> */}
                 <li><Link href="/services-details/anti-money-laundry">Anti-Money Laundering</Link></li>
             </ul>
                                 </div>

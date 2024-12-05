@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import about7Thumb from '@/assets/img/about/7.jpg';
-import about8Thumb from '@/assets/img/about/8.jpg';
+import about8Thumb from '@/assets/img/about/abc.jpg';
 import anim5Shape from '@/assets/img/shape/anim-5.png';
 import Link from 'next/link';
 
@@ -15,7 +15,7 @@ const AboutStyle2 = ({ sectionClass }) => {
 
                         <div className="col-lg-5 about-style-two">
                             <div className="thumb">
-                                <Image src={about7Thumb} alt="Image Not Found" />
+                                {/* <Image src={about7Thumb} alt="Image Not Found" /> */}
                                 <Image src={about8Thumb} alt="Image Not Found" />
                                 <div className="experience">
                                     <h2><strong>2+</strong> Years of Expertise</h2>

@@ -16,7 +16,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                         {shape ? <Image src={shape} alt="Shape" /> : <Image src={shape7} alt="Shape" />}
                     </div>
                     <div className="item">
-                        <Image src={shape9} alt="Shape" />
+                        {/* <Image src={shape9} alt="Shape" /> */}
                     </div>
                 </div>
                 <div className="container">

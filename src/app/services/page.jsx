@@ -13,7 +13,7 @@ import SingleServices2 from '@/components/services/SingleServices2';
 const servicesData = [
     {
         "id": "software-development-integration",
-        "thumb": "2.jpg",
+        "thumb": "service-1.jpg",
         "thumbFull": "2-full.jpg",
         "title": "Software Development & Integration",
         "icon": "flaticon-budget",

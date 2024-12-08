@@ -28,7 +28,7 @@ const AboutStyle2 = ({ sectionClass }) => {
                         <div className="about-style-two col-lg-6 offset-lg-1">
                             <h2 className="title">Innovative IT & Financial Solutions</h2>
                             <p>
-                                At Fintech Shield Solutions, we combine cutting-edge technology with expert financial consulting. 
+                                At Fintech Shield Solutions LLC, we combine cutting-edge technology with expert financial consulting. 
                                 We specialize in IT solutions, cybersecurity, accounting, and advisory services that drive growth, 
                                 efficiency, and security for businesses navigating today’s challenges.
                             </p>

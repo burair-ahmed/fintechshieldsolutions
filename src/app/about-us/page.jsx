@@ -7,7 +7,7 @@ import FounderSection from '@/components/about/FounderSection';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - About Us"
+    title: "Fintech Shield Solutions LLC - About Us"
 }
 
 const AboutUsPage = () => {

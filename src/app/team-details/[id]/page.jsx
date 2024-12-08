@@ -4,7 +4,7 @@ import TeamData from '@/assets/jsonData/team/TeamData.json';
 import LayoutStyle7 from '@/components/Layouts/LayoutStyle7';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Team Details"
+    title: "Fintech Shield Solutions LLC - Team Details"
 }
 
 const TeamDetails = ({ params }) => {

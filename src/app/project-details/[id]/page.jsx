@@ -4,7 +4,7 @@ import React from 'react';
 import Project2Data from '@/assets/jsonData/project/Project2Data.json'
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Project Details"
+    title: "Fintech Shield Solutions LLC - Project Details"
 }
 
 const ProjectDetailsPage = ({ params }) => {

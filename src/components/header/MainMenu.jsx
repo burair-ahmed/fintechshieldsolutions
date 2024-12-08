@@ -41,7 +41,7 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                 <li><Link href="/services-details/audit">Audit</Link></li>
                 <li><Link href="/services-details/tax">Tax</Link></li>
                 <li><Link href="/services-details/special-assignments">Special Assignments</Link></li>
-                <li><Link href="/services-details/anti-money-laundry">Anti-Money Laundering</Link></li>
+                <li><Link href="/services-details/anti-money-laundering">Anti-Money Laundering</Link></li>
             </ul>
                 </li>
                 {/* <li className="dropdown">

@@ -14,7 +14,7 @@ import BlogStyle2 from '@/components/blog/BlogStyle2';
 import Link from 'next/link';
 
 export const metadata = {
-    title: "Fintech Shield Solutions"
+    title: "Fintech Shield Solutions LLC"
 }
 
 export default function Home2() {

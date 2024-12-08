@@ -17,7 +17,7 @@ const FeatureStyle1 = () => {
                                 </div>
                                 <h2 className="title mb-25">Empowering Businesses with IT and Accounting Excellence</h2>
                                 <p>
-                                    At Fintech Shield Solutions, we deliver tailored IT and accounting services designed 
+                                    At Fintech Shield Solutions LLC, we deliver tailored IT and accounting services designed 
                                     to enhance operational efficiency, ensure compliance, and drive growth.
                                 </p>
                                 <div className="circle-progress">

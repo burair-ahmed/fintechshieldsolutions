@@ -3,7 +3,7 @@ import TeamStyle1 from '@/components/team/TeamStyle1';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Team"
+    title: "Fintech Shield Solutions LLC - Team"
 }
 
 const TeamPage = () => {

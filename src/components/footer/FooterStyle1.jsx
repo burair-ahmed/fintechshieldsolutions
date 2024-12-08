@@ -29,7 +29,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                         {/* <h2 className="title mb-20 mt-2">Fintech Shield</h2>*just to show client */}
                                     </Link>
                                     <p>
-                                        Excellence decisively nay man twins impression maximum contrasted remarkably is perfect.
+                                    Unleash Possibilities with Trailblazing Financial Expertise and Bespoke IT Solutions – Where Innovation Meets Security
                                     </p>
                                     <div className="opening-hours">
                                         <h5>Opening Hours</h5>
@@ -83,7 +83,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                 {/* <li><Link href="/services-details/audit">Audit</Link></li> */}
                 {/* <li><Link href="/services-details/tax">Tax</Link></li> */}
                 {/* <li><Link href="/services-details/special-assignments">Special Assignments</Link></li> */}
-                <li><Link href="/services-details/anti-money-laundry">Anti-Money Laundering</Link></li>
+                <li><Link href="/services-details/anti-money-laundering">Anti-Money Laundering</Link></li>
             </ul>
                                 </div>
                             </div>

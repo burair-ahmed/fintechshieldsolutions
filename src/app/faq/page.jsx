@@ -3,7 +3,7 @@ import FaqStyle2 from '@/components/faq/FaqStyle2';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Faq"
+    title: "Fintech Shield Solutions LLC - Faq"
 }
 
 const FaqPage = () => {

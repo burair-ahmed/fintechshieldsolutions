@@ -3,7 +3,7 @@ import ProjectStyle2 from '@/components/project/ProjectStyle2';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Project"
+    title: "Fintech Shield Solutions LLC - Project"
 }
 
 const ProjectPage = () => {

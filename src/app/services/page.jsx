@@ -22,8 +22,8 @@ const servicesData = [
     },
     {
         "id": "cybersecurity-services",
-        "thumb": "service-2.jpg",
-        "thumbFull": "3-full.jpg",
+        "thumb": "service-2.2.jpg",
+        "thumbFull": "service-2.jpg",
         "title": "Cybersecurity Services",
         "icon": "",
         "text": "Comprehensive protection for your systems and data against evolving cyber threats.",
@@ -31,8 +31,8 @@ const servicesData = [
     },
     {
         "id": "it-training-support",
-        "thumb": "service-3.jpg",
-        "thumbFull": "4-full.jpg",
+        "thumb": "service-3.3.jpg",
+        "thumbFull": "service-3.jpg",
         "title": "IT Training & Support",
         "icon": "",
         "text": "Expert IT training and ongoing support to empower your team with essential skills and knowledge.",
@@ -40,8 +40,8 @@ const servicesData = [
     },
     {
         "id": "network-services",
-        "thumb": "service-4.jpg",
-        "thumbFull": "3-full.jpg",
+        "thumb": "service-4.4.jpg",
+        "thumbFull": "service-4.jpg",
         "title": "Network Services",
         "icon": "",
         "text": "Reliable network setup and management for seamless connectivity and optimal performance.",
@@ -49,8 +49,8 @@ const servicesData = [
     },
     {
         "id": "data-backup-recovery",
-        "thumb": "service-5.jpg",
-        "thumbFull": "4-full.jpg",
+        "thumb": "service-5.5.jpg",
+        "thumbFull": "service-5.jpg",
         "title": "Data Backup & Disaster Recovery",
         "icon": "",
         "text": "Secure data backup solutions and fast recovery to protect your business from data loss and downtime.",
@@ -67,8 +67,8 @@ const servicesData = [
     },
     {
         "id": "audit",
-        "thumb": "service-7.jpg",
-        "thumbFull": "2-full.jpg",
+        "thumb": "service-7.7.jpg",
+        "thumbFull": "service-7.jpg",
         "title": "Audit Services",
         "icon": "",
         "text": "Thorough audits to ensure compliance, assess financial health, and uncover growth opportunities.",
@@ -85,8 +85,8 @@ const servicesData = [
     },
     {
         "id": "tax",
-        "thumb": "service-9.jpg",
-        "thumbFull": "4-full.jpg",
+        "thumb": "service-9.9.jpg",
+        "thumbFull": "service-9.jpg",
         "title": "Tax Services",
         "icon": "",
         "text": "Expert tax planning and preparation to minimize liabilities and ensure compliance with tax laws.",
@@ -94,8 +94,8 @@ const servicesData = [
     },
     {
         "id": "special-assignments",
-        "thumb": "service-10.jpg",
-        "thumbFull": "2-full.jpg",
+        "thumb": "service-10.10.jpg",
+        "thumbFull": "service-10.jpg",
         "title": "Special Assignments",
         "icon": "",
         "text": "Tailored solutions for unique business needs, including project management and consultancy for special assignments.",
@@ -113,7 +113,7 @@ const servicesData = [
 ];
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Services"
+    title: "Fintech Shield Solutions LLC - Services"
 };
 
 const Service2Page = () => {

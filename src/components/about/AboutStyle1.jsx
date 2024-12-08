@@ -16,7 +16,7 @@ const AboutStyle1 = () => {
                             <div className="h4 sub-heading">Empowering Your Financial Future</div>
                             <h2 className="title mb-25">Strategic Consulting for Today’s Business Challenges</h2>
                             <p>
-                                At Fintech Shield Solutions, we aim to provide transformative financial and IT strategies. We understand your unique challenges and deliver tailored solutions to ensure business growth, security, and efficiency.
+                                At Fintech Shield Solutions LLC, we aim to provide transformative financial and IT strategies. We understand your unique challenges and deliver tailored solutions to ensure business growth, security, and efficiency.
                             </p>
                             <p>
                                 Fintech Shield Solution LLC is poised to become a premier provider of anti-money laundering (AML), financial risk management, and compliance advisory services in the United States. Focused on supporting businesses across various sectors, Fintech Shield Solution LLC offers specialized expertise in combating financial crimes, enhancing regulatory compliance, and providing tailored financial advisory services.

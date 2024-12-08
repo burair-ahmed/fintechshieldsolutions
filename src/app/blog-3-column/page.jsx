@@ -3,7 +3,7 @@ import Blog3ColumnContent from '@/components/blog/Blog3ColumnContent';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Blog 3 Column"
+    title: "Fintech Shield Solutions LLC - Blog 3 Column"
 }
 
 const Blog3Column = () => {

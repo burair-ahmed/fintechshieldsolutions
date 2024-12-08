@@ -4,7 +4,7 @@ import blogData from '@/assets/jsonData/blog/BlogData.json';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Blog Single With Sidebar"
+    title: "Fintech Shield Solutions LLC - Blog Single With Sidebar"
 }
 
 const BlogSingleWithSidebar = ({ params }) => {

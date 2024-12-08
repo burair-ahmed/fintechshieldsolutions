@@ -3,7 +3,7 @@ import BlogStandardContent from '@/components/blog/BlogStandardContent';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Blog Standard"
+    title: "Fintech Shield Solutions LLC - Blog Standard"
 }
 
 const BlogStandardPage = () => {

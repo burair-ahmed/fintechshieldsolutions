@@ -12,7 +12,7 @@ import TestimonialStyle1 from '@/components/testimonial/TestimonialStyle1';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Software Landing"
+    title: "Fintech Shield Solutions LLC - Software Landing"
 }
 
 const SoftwareLanding = () => {

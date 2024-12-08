@@ -3,7 +3,7 @@ import BlogWithSidebarContent from '@/components/blog/BlogWithSidebarContent';
 import React from 'react';
 
 export const metadata = {
-    title: "Fintech Shield Solutions - Blog With Sidebar"
+    title: "Fintech Shield Solutions LLC - Blog With Sidebar"
 }
 
 const BlogWithSidebarPage = () => {

@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import aboutThumb from "@/assets/img/about/1.jpg";
+import aboutThumb from "@/assets/img/about/aboutimg.jpg";
 import About1Card from './About1Card';
 
 const AboutStyle1 = () => {

@@ -72,19 +72,17 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                             </div>
                             <div className="col-lg-2 col-md-6 footer-item">
                                 <div className="f-item link">
-                                    <h4 className="widget-title">Our Services</h4>
-                                    <ul>
-                <li><Link href="/services-details/software-development-integration">Software Development and Integration</Link></li>
-                <li><Link href="/services-details/cybersecurity-services">Cybersecurity Services</Link></li>
-                <li><Link href="/services-details/it-training-support">IT Training and Support</Link></li>
-                {/* <li><Link href="/services-details/network-services">Network Services</Link></li> */}
-                {/* <li><Link href="/services-details/data-backup-recovery">Data Backup and Disaster Recovery</Link></li> */}
-                {/* <li><Link href="/services-details/bookkeeping">Bookkeeping</Link></li> */}
-                {/* <li><Link href="/services-details/audit">Audit</Link></li> */}
-                {/* <li><Link href="/services-details/tax">Tax</Link></li> */}
-                {/* <li><Link href="/services-details/special-assignments">Special Assignments</Link></li> */}
-                <li><Link href="/services-details/anti-money-laundering">Anti-Money Laundering</Link></li>
-            </ul>
+                                <h4 className="widget-title">Our Services</h4>
+<ul>
+    <li><Link href="/services-details/bookkeeping">Bookkeeping and Accounting</Link></li>
+    <li><Link href="/services-details/audit">Audit Services</Link></li>
+    <li><Link href="/services-details/tax">Tax Services</Link></li>
+    <li><Link href="/services-details/anti-money-laundering">Anti-Money Laundering</Link></li>
+    {/* <li><Link href="/services-details/software-development-integration">Software Development and Integration</Link></li>
+    <li><Link href="/services-details/cybersecurity-services">Cybersecurity Services</Link></li>
+    <li><Link href="/services-details/special-assignments">Special Assignments</Link></li> */}
+</ul>
+
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-6 footer-item">

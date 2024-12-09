@@ -14,7 +14,7 @@ const servicesData = [
     {
         "id": "bookkeeping",
         "thumb": "service-6.jpg",
-        "thumbFull": "4-full.jpg",
+        "thumbFull": "bookkeeping.jpg",
         "title": "Bookkeeping & Accounting",
         "icon": "",
         "text": "Reliable bookkeeping and accounting services to keep your finances organized and compliant.",
@@ -41,7 +41,7 @@ const servicesData = [
     {
         "id": "anti-money-laundering",
         "thumb": "aml.jpg",
-        "thumbFull": "3-full.jpg",
+        "thumbFull": "aml1.jpg",
         "title": "Anti-Money Laundering (AML)",
         "icon": "",
         "text": "Comprehensive anti-money laundering solutions to safeguard your business and meet regulatory requirements.",
@@ -50,7 +50,7 @@ const servicesData = [
     {
         "id": "consulting-advisory",
         "thumb": "consulting.jpg",
-        "thumbFull": "3-full.jpg",
+        "thumbFull": "consult.jpg",
         "title": "Consulting & Advisory",
         "icon": "",
         "text": "Expert consulting to guide your IT and financial strategy, helping you make informed decisions and drive growth.",
@@ -59,7 +59,7 @@ const servicesData = [
     {
         "id": "software-development-integration",
         "thumb": "software.jpg",
-        "thumbFull": "2-full.jpg",
+        "thumbFull": "software1.jpg",
         "title": "Software Development & Integration",
         "icon": "",
         "text": "Tailored software solutions and seamless integrations to optimize workflows and enhance your operations.",

@@ -5,9 +5,9 @@
         "btnClass": "",
         "collapseTarget": "collapseOne",
         "expanded": "true",
-        "title": "What IT services do you provide?",
+        "title": "What accounting services do you offer?",
         "textClass": "show",
-        "text": "We offer a full range of IT services, including software development, cybersecurity, network solutions, disaster recovery, and IT consulting, tailored to meet the needs of businesses of all sizes."
+        "text": "We provide a wide range of accounting services, including bookkeeping, financial reporting, tax preparation, payroll management, and budgeting. Our goal is to help businesses maintain accurate financial records and achieve long-term growth."
     },
     {
         "id": 2,
@@ -15,9 +15,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseTwo",
         "expanded": "false",
-        "title": "How does cybersecurity protection work?",
+        "title": "How does your tax preparation service work?",
         "textClass": "",
-        "text": "Our cybersecurity services include risk assessments, threat monitoring, data encryption, and incident response strategies to ensure that your business is safeguarded against potential threats and data breaches."
+        "text": "Our tax preparation services involve gathering and organizing your financial records, identifying applicable deductions, and ensuring compliance with all tax laws. We aim to minimize your tax liability while avoiding penalties."
     },
     {
         "id": 3,
@@ -25,9 +25,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseThree",
         "expanded": "false",
-        "title": "What accounting services do you offer?",
+        "title": "What is included in your audit services?",
         "textClass": "",
-        "text": "We provide comprehensive accounting services, including bookkeeping, tax preparation, audits, financial consulting, and compliance services to ensure your business stays financially healthy and compliant with regulations."
+        "text": "Our audit services include a comprehensive review of your financial statements, internal controls, and compliance with regulations. We provide insights to help improve financial transparency and operational efficiency."
     },
     {
         "id": 4,
@@ -35,9 +35,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseFour",
         "expanded": "false",
-        "title": "How can your IT consulting services benefit my business?",
+        "title": "How do you address anti-money laundering (AML) compliance?",
         "textClass": "",
-        "text": "Our IT consulting services help businesses optimize their technology infrastructure, improve efficiency, and align IT strategies with business goals. We offer expert advice on system integrations, cloud solutions, and IT project management."
+        "text": "We help businesses develop and implement effective AML policies, conduct risk assessments, and ensure compliance with regulatory standards. Our services also include training and support to prevent financial crimes."
     },
     {
         "id": 5,
@@ -45,9 +45,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseFive",
         "expanded": "false",
-        "title": "How do you ensure data privacy and compliance?",
+        "title": "Do you offer bookkeeping services?",
         "textClass": "",
-        "text": "We adhere to strict data privacy and compliance standards, including GDPR, HIPAA, and other regulatory frameworks. Our solutions are designed to protect sensitive data while ensuring your business complies with industry regulations."
+        "text": "Yes, our bookkeeping services include recording daily transactions, reconciling bank statements, managing accounts payable and receivable, and generating financial reports to keep your records organized and accurate."
     },
     {
         "id": 6,
@@ -55,9 +55,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseSix",
         "expanded": "false",
-        "title": "What is your approach to disaster recovery?",
+        "title": "How do you ensure compliance with financial regulations?",
         "textClass": "",
-        "text": "We implement robust disaster recovery plans that ensure minimal downtime in case of a system failure or disaster. Our services include regular backups, data restoration plans, and continuous monitoring to ensure your business can quickly recover from unexpected events."
+        "text": "We stay up-to-date with the latest regulatory requirements and ensure your business complies with all relevant financial and tax laws. Our team conducts regular audits and reviews to maintain compliance."
     },
     {
         "id": 7,
@@ -65,8 +65,8 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseSeven",
         "expanded": "false",
-        "title": "Do you provide custom software development?",
+        "title": "What makes your services unique?",
         "textClass": "",
-        "text": "Yes, we specialize in custom software development to address your specific business needs. Our development services include web and mobile applications, system integrations, and tailored enterprise solutions designed to enhance your operational efficiency."
+        "text": "Our services are tailored to your specific needs. We combine expert knowledge, advanced tools, and a client-focused approach to deliver accurate, reliable, and efficient bookkeeping, accounting, tax, and compliance solutions."
     }
 ]

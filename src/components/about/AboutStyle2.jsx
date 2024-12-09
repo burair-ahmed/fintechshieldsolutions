@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import about7Thumb from '@/assets/img/about/7.jpg';
-import about8Thumb from '@/assets/img/about/abc.jpg';
+import about8Thumb from '@/assets/img/about/aboutimg3.jpg';
 import anim5Shape from '@/assets/img/shape/anim-5.png';
 import Link from 'next/link';
 

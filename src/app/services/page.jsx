@@ -119,7 +119,7 @@ export const metadata = {
 const Service2Page = () => {
     return (
         <>
-            <LayoutStyle7 breadCrumb="Service-2" title="Our Services">
+            <LayoutStyle7 breadCrumb="Service" title="Our Services">
                 <AboutStyle2 />
                 <div className="services-area">
                     <div className="container">

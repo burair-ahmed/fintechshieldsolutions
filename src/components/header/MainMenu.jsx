@@ -19,7 +19,7 @@ const MainMenu = ({ navbarPlacement }) => {
                 </li>
                 <li className={`dropdown ${dropdownOpen ? 'open' : ''}`}>
                     <a
-                        href="#"
+                        href="/services-2"
                         className="dropdown-toggle"
                         onClick={(e) => {
                             e.preventDefault(); // Prevent navigation to `#`

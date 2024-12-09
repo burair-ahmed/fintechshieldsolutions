@@ -16,7 +16,7 @@ const AboutUsPage = () => {
             <LayoutStyle7 breadCrumb="About-us" title="About Us">
                 <AboutStyle1 />
                 <FounderSection />
-                <ProcessStyle1 sectionClass="bg-gray" />
+                {/* <ProcessStyle1 sectionClass="bg-gray" /> */}
                 {/* <PartnerStyle1 sectionClass="default-padding" /> */}
                 {/* <TeamStyle1 sectionClass="bg-gray" teamTitle={true} /> */}
                 {/* <TestimonialStyle1 /> */}

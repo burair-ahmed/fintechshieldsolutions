@@ -12,51 +12,6 @@ import SingleServices2 from '@/components/services/SingleServices2';
 // Sample service data (ideally, this would come from an API or JSON file)
 const servicesData = [
     {
-        "id": "software-development-integration",
-        "thumb": "service-1.jpg",
-        "thumbFull": "2-full.jpg",
-        "title": "Software Development & Integration",
-        "icon": "",
-        "text": "Tailored software solutions and seamless integrations to optimize workflows and enhance your operations.",
-        "btnText": "Learn More"
-    },
-    {
-        "id": "cybersecurity-services",
-        "thumb": "service-2.2.jpg",
-        "thumbFull": "service-2.jpg",
-        "title": "Cybersecurity Services",
-        "icon": "",
-        "text": "Comprehensive protection for your systems and data against evolving cyber threats.",
-        "btnText": "Learn More"
-    },
-    {
-        "id": "it-training-support",
-        "thumb": "service-3.3.jpg",
-        "thumbFull": "service-3.jpg",
-        "title": "IT Training & Support",
-        "icon": "",
-        "text": "Expert IT training and ongoing support to empower your team with essential skills and knowledge.",
-        "btnText": "Learn More"
-    },
-    {
-        "id": "network-services",
-        "thumb": "service-4.4.jpg",
-        "thumbFull": "service-4.jpg",
-        "title": "Network Services",
-        "icon": "",
-        "text": "Reliable network setup and management for seamless connectivity and optimal performance.",
-        "btnText": "Learn More"
-    },
-    {
-        "id": "data-backup-recovery",
-        "thumb": "service-5.5.jpg",
-        "thumbFull": "service-5.jpg",
-        "title": "Data Backup & Disaster Recovery",
-        "icon": "",
-        "text": "Secure data backup solutions and fast recovery to protect your business from data loss and downtime.",
-        "btnText": "Learn More"
-    },
-    {
         "id": "bookkeeping",
         "thumb": "service-6.jpg",
         "thumbFull": "4-full.jpg",
@@ -67,7 +22,7 @@ const servicesData = [
     },
     {
         "id": "audit",
-        "thumb": "service-7.7.jpg",
+        "thumb": "audit.jpg",
         "thumbFull": "service-7.jpg",
         "title": "Audit Services",
         "icon": "",
@@ -75,17 +30,8 @@ const servicesData = [
         "btnText": "Learn More"
     },
     {
-        "id": "anti-money-laundering",
-        "thumb": "service-8.jpg",
-        "thumbFull": "3-full.jpg",
-        "title": "Anti-Money Laundering (AML)",
-        "icon": "",
-        "text": "Comprehensive anti-money laundering solutions to safeguard your business and meet regulatory requirements.",
-        "btnText": "Learn More"
-    },
-    {
         "id": "tax",
-        "thumb": "service-9.9.jpg",
+        "thumb": "tax.jpg",
         "thumbFull": "service-9.jpg",
         "title": "Tax Services",
         "icon": "",
@@ -93,21 +39,75 @@ const servicesData = [
         "btnText": "Learn More"
     },
     {
-        "id": "special-assignments",
-        "thumb": "service-10.10.jpg",
-        "thumbFull": "service-10.jpg",
-        "title": "Special Assignments",
+        "id": "anti-money-laundering",
+        "thumb": "aml.jpg",
+        "thumbFull": "3-full.jpg",
+        "title": "Anti-Money Laundering (AML)",
         "icon": "",
-        "text": "Tailored solutions for unique business needs, including project management and consultancy for special assignments.",
+        "text": "Comprehensive anti-money laundering solutions to safeguard your business and meet regulatory requirements.",
         "btnText": "Learn More"
     },
     {
         "id": "consulting-advisory",
-        "thumb": "service-11.jpg",
+        "thumb": "consulting.jpg",
         "thumbFull": "3-full.jpg",
         "title": "Consulting & Advisory",
         "icon": "",
         "text": "Expert consulting to guide your IT and financial strategy, helping you make informed decisions and drive growth.",
+        "btnText": "Learn More"
+    },
+    {
+        "id": "software-development-integration",
+        "thumb": "software.jpg",
+        "thumbFull": "2-full.jpg",
+        "title": "Software Development & Integration",
+        "icon": "",
+        "text": "Tailored software solutions and seamless integrations to optimize workflows and enhance your operations.",
+        "btnText": "Learn More"
+    },
+    {
+        "id": "cybersecurity-services",
+        "thumb": "cs.jpg",
+        "thumbFull": "service-2.jpg",
+        "title": "Cybersecurity Services",
+        "icon": "",
+        "text": "Comprehensive protection for your systems and data against evolving cyber threats.",
+        "btnText": "Learn More"
+    },
+    {
+        "id": "it-training-support",
+        "thumb": "it-training.jpg",
+        "thumbFull": "service-3.jpg",
+        "title": "IT Training & Support",
+        "icon": "",
+        "text": "Expert IT training and ongoing support to empower your team with essential skills and knowledge.",
+        "btnText": "Learn More"
+    },
+    {
+        "id": "network-services",
+        "thumb": "networking.jpg",
+        "thumbFull": "service-4.jpg",
+        "title": "Network Services",
+        "icon": "",
+        "text": "Reliable network setup and management for seamless connectivity and optimal performance.",
+        "btnText": "Learn More"
+    },
+    {
+        "id": "data-backup-recovery",
+        "thumb": "backup.jpg",
+        "thumbFull": "service-5.jpg",
+        "title": "Data Backup & Disaster Recovery",
+        "icon": "",
+        "text": "Secure data backup solutions and fast recovery to protect your business from data loss and downtime.",
+        "btnText": "Learn More"
+    },
+    {
+        "id": "special-assignments",
+        "thumb": "assign.jpg",
+        "thumbFull": "service-10.jpg",
+        "title": "Special Assignments",
+        "icon": "",
+        "text": "Tailored solutions for unique business needs, including project management and consultancy for special assignments.",
         "btnText": "Learn More"
     }
 ];

@@ -16,7 +16,7 @@ const BookKeeping = () => {
                                     <div className="col-xl-8 col-lg-7 order-lg-last pl-50 pl-md-15 pl-xs-15">
                                         <div className="thumb">
                                             <Image
-                                                src={`/assets/img/service/3-full.jpg`}
+                                                src={`/assets/img/service/bookkeeping.jpg`}
                                                 alt="Thumb"
                                                 width={1460}
                                                 height={782}

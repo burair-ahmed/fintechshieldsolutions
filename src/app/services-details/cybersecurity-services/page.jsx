@@ -16,7 +16,7 @@ const CybersecurityServices = () => {
                                     <div className="col-xl-8 col-lg-7 order-lg-last pl-50 pl-md-15 pl-xs-15">
                                         <div className="thumb">
                                             <Image
-                                                src={`/assets/img/service/3-full.jpg`}
+                                                src={`/assets/img/service/service-2.jpg`}
                                                 alt="Cybersecurity Services"
                                                 width={1460}
                                                 height={782}

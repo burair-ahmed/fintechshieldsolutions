@@ -13,7 +13,7 @@ import SingleServices2 from '@/components/services/SingleServices2';
 const servicesData = [
     {
         "id": "bookkeeping",
-        "thumb": "service-6.jpg",
+        "thumb": "keep.jpg",
         "thumbFull": "bookkeeping.jpg",
         "title": "Bookkeeping & Accounting",
         "icon": "",

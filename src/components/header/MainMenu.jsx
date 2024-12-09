@@ -18,16 +18,7 @@ const MainMenu = ({ navbarPlacement }) => {
                     <Link href="/about-us" className="">About Us</Link>
                 </li>
                 <li className={`dropdown ${dropdownOpen ? 'open' : ''}`}>
-                    <a
-                        href="/services-2"
-                        className="dropdown-toggle"
-                        onClick={(e) => {
-                            e.preventDefault(); // Prevent navigation to `#`
-                            toggleDropdown();
-                        }}
-                    >
-                        Services
-                    </a>
+                  <Link href="/services" className="dropdown-toggle" onClick={toggleDropdown}>Our Services</Link>
                     <ul className={`dropdown-menu ${dropdownOpen ? 'show' : ''}`}>
                         <li><Link href="/services-details/software-development-integration">Software Development and Integration</Link></li>
                         <li><Link href="/services-details/cybersecurity-services">Cybersecurity Services</Link></li>

@@ -35,7 +35,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                         <h5>Opening Hours</h5>
                                         <ul>
                                             <li>
-                                                <div className="working-day">Monday – Sunday:</div>
+                                                <div className="working-day">Monday – Saturday:</div>
                                                 <div className="marker"></div>
                                                 <div className="working-hour">9am – 6pm (US Central Time)</div>
                                             </li>
@@ -62,7 +62,7 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
                                             <Link href="/services">Services</Link>
                                         </li>
                                         <li>
-                                            <Link href="/faqs">FAQs</Link>
+                                            <Link href="/faq">FAQs</Link>
                                         </li>
                                         <li>
                                             <Link href="/contact-us">Contact</Link>
@@ -78,9 +78,9 @@ const FooterStyle1 = ({ shape, shapeClass, logo, formStyle }) => {
     <li><Link href="/services-details/audit">Audit Services</Link></li>
     <li><Link href="/services-details/tax">Tax Services</Link></li>
     <li><Link href="/services-details/anti-money-laundering">Anti-Money Laundering</Link></li>
-    {/* <li><Link href="/services-details/software-development-integration">Software Development and Integration</Link></li>
+    <li><Link href="/services-details/software-development-integration">Software Development and Integration</Link></li>
     <li><Link href="/services-details/cybersecurity-services">Cybersecurity Services</Link></li>
-    <li><Link href="/services-details/special-assignments">Special Assignments</Link></li> */}
+    <li><Link href="/services-details/special-assignments">Special Assignments</Link></li>
 </ul>
 
                                 </div>

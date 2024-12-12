@@ -1,0 +1,29 @@
+name: Deploy Next.js to VPS
+
+on:
+  push:
+    branches:
+      - main  # or the branch you want to deploy from
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'  # specify the version you need
+
+      - name: Install dependencies
+        run: |
+          npm install
+
+      - name: Deploy to VPS
+        run: |
+          ssh -o StrictHostKeyChecking=no -i ${{ secrets.SSH_PRIVATE_KEY }} username@your-vps-ip 'cd /path/to/your/project && git pull && npm install && pm2 restart nextjs-app'
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}

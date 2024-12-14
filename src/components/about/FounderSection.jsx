@@ -21,7 +21,7 @@ const FounderSection = () => {
                             <div className="left-info">
                                 <h4>Contact Information</h4>
                                 <p><strong>Phone:</strong> +1 (945)267-2021</p>
-                                <p><strong>Address:</strong> Information will be provided later</p>
+                                {/* <p><strong>Address:</strong> Information will be provided later</p> */}
                             </div>
                         </div>
                     </div>

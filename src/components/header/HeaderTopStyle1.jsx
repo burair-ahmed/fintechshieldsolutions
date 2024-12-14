@@ -10,7 +10,7 @@ const HeaderTopStyle1 = () => {
                         <div className="col-xl-6 col-lg-8 offset-xl-3 pl-30 pl-md-15 pl-xs-15">
                             <ul className="item-flex">
                                 <li>
-                                    <i className="fas fa-map-marker-alt"></i> Frisco, Texas
+                                    <i className="fas fa-map-marker-alt"></i> Plano, Texas
                                 </li>
                                 <li>
                                     <a href="tel:+19452672021"><i className="fas fa-phone-alt"></i> +19452672021</a>

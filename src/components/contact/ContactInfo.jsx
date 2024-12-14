@@ -25,7 +25,7 @@ const ContactInfo = () => {
                         <div className="info">
                             <h5 className="title">Our Location</h5>
                             <p>
-                            Frisco, Texas
+                            Plano, Texas
                             </p>
                         </div>
                     </li>

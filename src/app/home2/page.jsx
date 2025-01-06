@@ -34,7 +34,7 @@ export default function Home2() {
                 {/* <PartnerStyle1 sectionClass="default-padding" /> */}
                 <AboutStyle2 sectionClass="bg-gray" />
                 <FaqStyle1 />
-                <TestimonialStyle2 />
+                {/* <TestimonialStyle2 /> */}
                 {/* <ProjectStyle2 projectTitle={true} /> */}
                 <ContactStyle2 />
                 {/* <FunFactStyle1 /> */}

@@ -25,7 +25,7 @@ const ContactInfo = () => {
                         <div className="info">
                             <h5 className="title">Our Location</h5>
                             <p>
-                            Plano, Texas
+                            11011 S wilcrest dr, office G210, Houston, Texas, 77099
                             </p>
                         </div>
                     </li>

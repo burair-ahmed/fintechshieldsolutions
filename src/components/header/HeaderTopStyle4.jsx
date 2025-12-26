@@ -10,7 +10,7 @@ const HeaderTopStyle4 = () => {
                         <div className="col-lg-7">
                             <ul className="item-flex">
                                 <li>
-                                    <i className="fas fa-map-marker-alt"></i> Plano, Texas
+                                    <i className="fas fa-map-marker-alt"></i> 11011 S wilcrest dr, office G210, Houston, Texas, 77099
                                 </li>
                                 <li>
                                     <a href="tel:+19452672021"><i className="fas fa-phone-alt"></i> +19452672021</a>

@@ -14,7 +14,7 @@ const HeaderTopStyle2 = () => {
                                     </div>
                                     <div className="info">
                                         <strong>Address</strong>
-                                        Plano, Texas
+                                        11011 S wilcrest dr, office G210, Houston, Texas, 77099
                                     </div>
                                 </li>
                                 <li>
